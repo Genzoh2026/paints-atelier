@@ -1,0 +1,106 @@
+[
+  {
+    "file": "src/oil/analysis.js",
+    "sha256": "8ea9034c71905e9bee3c3aed1c66d9e87ee28e5799d308ede824fbb70437c6ae"
+  },
+  {
+    "file": "src/oil/crayon-brush.js",
+    "sha256": "8f611dac461c7a92838d7b5710d9d66176ddcf33627b7ea2caf60e5d0c13a829"
+  },
+  {
+    "file": "src/oil/crayon-plan.js",
+    "sha256": "72cd5d8a4c7ce5bb69dc15f9bacf473ab006a29dc97b7898bd06fabad49cab86"
+  },
+  {
+    "file": "src/oil/detail.js",
+    "sha256": "4a21fc03d96a0ac9663424e6b488fbfe46d578837367f632e89a8abb722f8d45"
+  },
+  {
+    "file": "src/oil/dry-media-brush.js",
+    "sha256": "c17cd30342b4ee0ea01e053f6fc9c7b644a58a816f0fd3e458142caccf61f691"
+  },
+  {
+    "file": "src/oil/dry-media-plan.js",
+    "sha256": "9dc766831acf6105bf1402a467a3d3909ee91242a83ad9d81299cd39df398349"
+  },
+  {
+    "file": "src/oil/image-input.js",
+    "sha256": "76527c9b4fe462f6ec414b91c2b82e040c582da31d0861b2d03c3a5acdaf22d6"
+  },
+  {
+    "file": "src/oil/marker-brush.js",
+    "sha256": "0ee397817144e3fc2c2a09b626a9c42c9d06328c925b0587f1bd6c20527f404f"
+  },
+  {
+    "file": "src/oil/marker-plan.js",
+    "sha256": "f1fc3f8a638ccb36859822f074a2553929e643f2b2e1212c353199e573e12a0c"
+  },
+  {
+    "file": "src/oil/media-brush.js",
+    "sha256": "ed42ada7771dbbc7390e6041d19809b7f145a48b0e5e74975bcadc50c645c971"
+  },
+  {
+    "file": "src/oil/media-plan.js",
+    "sha256": "b200d8628488e228dce9464a997229aa09013f479b19ddfb832b6350527cac66"
+  },
+  {
+    "file": "src/oil/mixed-media.js",
+    "sha256": "be3309d4fcf31fa66fb8779d32df979cf219bef5e6d0aed3ce0ccef9018622f6"
+  },
+  {
+    "file": "src/oil/movie.js",
+    "sha256": "041b7e588ded18527b5df6d3f19f480e8538d5fa3988c369647c4cc16a64bc65"
+  },
+  {
+    "file": "src/oil/oil-brush.js",
+    "sha256": "ba77f0fbe631d0d453f786d8c495263ae70d2b12815cb34667eb1a6cb4fe6013"
+  },
+  {
+    "file": "src/oil/painterly.js",
+    "sha256": "c8dc0056751e41d3c66a05413fb85396b6d0ee233d92e3011ebe19e52b17cddf"
+  },
+  {
+    "file": "src/oil/pencil-brush.js",
+    "sha256": "efcbecb242c8f4f7640eaaf222bf98f309f91ec401c54396703b81907cdfe443"
+  },
+  {
+    "file": "src/oil/pencil-plan.js",
+    "sha256": "52f84df5b89667c62573876ed1f24b4807c8bfedaa5c8fca3efa1a462906ea6c"
+  },
+  {
+    "file": "src/oil/planner.js",
+    "sha256": "833b8c379533eb1f9113c5d5abbd9cdb032bb3d39e5d12a084e013e680fea633"
+  },
+  {
+    "file": "src/oil/planning-client.js",
+    "sha256": "1768317117056c0feaea03516eea9d0551557a85294018d07d4cd43fcc353661"
+  },
+  {
+    "file": "src/oil/planning-worker.js",
+    "sha256": "d6451a5730ab2706d37f9d203da53651f731b39d6b18fd01aac54f4b7ce933e7"
+  },
+  {
+    "file": "src/oil/recorder.js",
+    "sha256": "42e4c0cbb16931a19e8a88946871616fbe81a0cda0c8b9214d2c9539c85d0e23"
+  },
+  {
+    "file": "src/oil/runner.js",
+    "sha256": "8dc5e6ae1033a559154502f7daab211265c71dbbb1700e9ce2548f527bf472ad"
+  },
+  {
+    "file": "src/oil/settings.js",
+    "sha256": "aeaf95144aa2525bbee74c3e58a6438843f6ea78e11f0bfb8b9b0c1023194796"
+  },
+  {
+    "file": "src/oil/surfaces.js",
+    "sha256": "1b520b380bf446b8ab1d13485574cd4161a5b400c1ede7d35e1c1fb7ca8fbdf3"
+  },
+  {
+    "file": "src/oil/watercolor-brush.js",
+    "sha256": "89551bdc9d424de9ca06ba226c8f44fafc5ed94bbcd16b350b859f7bcc5a71d9"
+  },
+  {
+    "file": "src/oil/watercolor-plan.js",
+    "sha256": "d39b9c0f7cc4e25a0eb58a9ced82c31bde406e8cdb2288f8efeb851cf685bcaa"
+  }
+]
