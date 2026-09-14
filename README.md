@@ -13,7 +13,7 @@ Local, stroke-based repainting for illustrations and photographs. Seven media, m
 Node.js 20以上をインストールし、次を実行します。実行時のnpmパッケージ依存はありません。
 
 ```sh
-git clone https://github.com/2018naoki11-arch/paints-atelier.git
+git clone https://github.com/Genzoh2026/paints-atelier.git
 cd paints-atelier
 npm start
 ```
